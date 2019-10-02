@@ -1,6 +1,10 @@
 # Lab 5: Web-scraping Weather Data with Python
 ### Date Due: 09/27/2019
 
+| Grade   	|      10/10     	|
+|----------	|:------------	|
+| **Comments** 	| Nice work! |
+
 In this lab, you will work with a script that extracts live weather conditions from the National Weather Service website for a given location in the United States. 
 
 1. Copy the **NWS_CurWeatherConditions.py** file and paste it into the online Python compiler: https://repl.it/languages/python
